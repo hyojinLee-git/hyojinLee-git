@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h2 align="center">Tech Stack</h2>
+<h2 align="center" border-bottom="none">Tech Stack</h2>
 <p align="center">
   Techs that I've used at least once
 </p>
@@ -20,7 +20,7 @@
   <img alt="android" src="https://img.shields.io/badge/-android-green?logo=android&logoColor=white"/>
     <img alt="python" src="https://img.shields.io/badge/-Python-%233776AB?logo=Python&logoColor=white"/>
 </p>
-<h2 align="center">I've used<h2>
+<h2 align="center" border-bottom="none">I've used<h2>
 <p align="center">
 <img alt="git" src="https://img.shields.io/badge/-git-%23F05032?logo=git&logoColor=white">
       <img alt="github" src="https://img.shields.io/badge/-github-%23181717?logo=GitHub&logoColor=white"/>
