@@ -1,26 +1,32 @@
 ### Hi there 👋
 
-<h1>tech stack</h1>
+<h2 align="center">Tech Stack</h2>
+<p align="center">
   Techs that I've used at least once
 
-  <h3>FRONTEND</h3>
+  <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-html-%23E34F26?logo=HTML5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/-css-%231572B6?logo=CSS3&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=JavaScript&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/-React-%2361DAFB?logo=React&logoColor=white"/>
 
-  <h3>Backend</h3>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-%23339933?logo=Node.js&logoColor=white"/>
   <img alt="Express" src="https://img.shields.io/badge/-Express-%23000000?logo=Express&logoColor=white"/>
   
-  <h3>DataBase</h3>
+  <img alt="" src=""/>
+
   <img alt="mysql" src="https://img.shields.io/badge/-mysql-%234479A1?logo=MySQL&logoColor=white"/>
-  
-  <h3>Mobile</h3>
-<img alt="android" src="https://img.shields.io/badge/-android-green?logo=android&logoColor=white"/>
 
-  
-
+  <img alt="android" src="https://img.shields.io/badge/-android-green?logo=android&logoColor=white"/>
+    <img alt="python" src="https://img.shields.io/badge/-Python-%233776AB?logo=Python&logoColor=white"/>
+</p>
+<h2 align="center">I've used<h2>
+<p align="center">
+<img alt="git" src="https://img.shields.io/badge/-git-%23F05032?logo=git&logoColor=white">
+      <img alt="github" src="https://img.shields.io/badge/-github-%23181717?logo=GitHub&logoColor=white"/>
+    <img alt="slack" src="https://img.shields.io/badge/-slack-%234A154B?logo=Slack&logoColor=white"/>
+    <img alt="notion" src="https://img.shields.io/badge/-Notion-%23000000?logo=Notion&logoColor=white"/>
+</p>
 <!--
 **hyojinLee-git/hyojinLee-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,4 +40,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
