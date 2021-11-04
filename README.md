@@ -1,7 +1,7 @@
 ### Hi there 👋
 
+<h1>tech stack</h1>
 <center>
-# tech stack
   Techs that I've used at least once
 </center>
 
