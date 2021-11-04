@@ -27,9 +27,9 @@
     <img alt="slack" src="https://img.shields.io/badge/-slack-%234A154B?logo=Slack&logoColor=white"/>
     <img alt="notion" src="https://img.shields.io/badge/-Notion-%23000000?logo=Notion&logoColor=white"/>
 </p>
-  <p align="center">
+
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=splato88)](https://solved.ac/splato88)
-</p>
+
 <!--
 **hyojinLee-git/hyojinLee-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
