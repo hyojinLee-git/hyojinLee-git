@@ -22,6 +22,7 @@
   <img alt="notion" src="https://img.shields.io/badge/-Notion-%23000000?logo=Notion&logoColor=white"/>
   <img alt=" logo" src="https://img.shields.io/badge/-AWS-%23232F3E?logo=Amazon%20AWS&logoColor=white"/>
 </p>
+<hr/>
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=splato88"/>
 
 
