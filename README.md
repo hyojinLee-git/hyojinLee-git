@@ -2,7 +2,7 @@
 
 <center>
 # tech stack
-Techs that I've used at least once
+  Techs that I've used at least once
 </center>
 
 <img src="https://img.shields.io/badge/-android-green?logo=android&logoColor=white"/>
