@@ -3,8 +3,8 @@
 <h2 align="center">Tech Stack</h2>
 <p align="center">
   Techs that I've used at least once
-
-  <p>
+</p>
+  <p align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/-html-%23E34F26?logo=HTML5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/-css-%231572B6?logo=CSS3&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=JavaScript&logoColor=white"/>
