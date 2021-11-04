@@ -28,8 +28,7 @@
     <img alt="notion" src="https://img.shields.io/badge/-Notion-%23000000?logo=Notion&logoColor=white"/>
 </p>
   
-  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={splato88})](https://solved.ac/{splato88})
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={splato88})](https://solved.ac/{splato88})
 
 <!--
 **hyojinLee-git/hyojinLee-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
