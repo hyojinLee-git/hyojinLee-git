@@ -1,5 +1,5 @@
 ### Hi there 👋
-<center>
+
 <h1>tech stack</h1>
   Techs that I've used at least once
 
@@ -20,7 +20,7 @@
 <img alt="android" src="https://img.shields.io/badge/-android-green?logo=android&logoColor=white"/>
 
   
-</center>
+
 <!--
 **hyojinLee-git/hyojinLee-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
