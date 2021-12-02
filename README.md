@@ -22,7 +22,8 @@
   <img alt="notion" src="https://img.shields.io/badge/-Notion-%23000000?logo=Notion&logoColor=white"/>
   <img alt=" AWS" src="https://img.shields.io/badge/-AWS-%23232F3E?logo=Amazon%20AWS&logoColor=white"/>
   <img alt=" Netlify" src="https://img.shields.io/badge/-Netlify-%2300C7B7?logo=Netlify&logoColor=white"/>
-  <img alt="Figma" src="https://img.shields.io/badge/-Figma-%23F24E1E?logo=Figma&logoColor=white"/>
+  <img alt=" Netlify" src="https://img.shields.io/badge/-Netlify-%2300C7B7?logo=Netlify&logoColor=white"/>
+  <img alt="Figma" src="https://img.shields.io/badge/-Firebase-%23FFCA28?logo=Firebase&logoColor=blacke"/>
 </p>
   - 🌱 I’m currently learning TypeScript
 <hr/>
