@@ -1,5 +1,5 @@
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=splato88"/>
-<hr/>
+
 <h3 border-bottom="none">🛠Tech Stack🛠</h3>
 <p>
   Techs that I've used at least once
