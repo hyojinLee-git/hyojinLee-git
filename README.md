@@ -1,15 +1,19 @@
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=splato88"/>
+<hr/>
 <h3 align="center" border-bottom="none">🛠Tech Stack🛠</h3>
 <p align="center">
   Techs that I've used at least once
 </p>
 <p align="center">
-  <img alt="HTML5" src="https://img.shields.io/badge/-html-%23E34F26?logo=HTML5&logoColor=white"/>
+  Frontend: <img alt="HTML5" src="https://img.shields.io/badge/-html-%23E34F26?logo=HTML5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/-css-%231572B6?logo=CSS3&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=JavaScript&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/-React-%2361DAFB?logo=React&logoColor=white"/>
+  Backend:
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-%23339933?logo=Node.js&logoColor=white"/>
   <img alt="Express" src="https://img.shields.io/badge/-Express-%23000000?logo=Express&logoColor=white"/>
   <img alt="mysql" src="https://img.shields.io/badge/-mysql-%234479A1?logo=MySQL&logoColor=white"/>
+  Etc.
   <img alt="android" src="https://img.shields.io/badge/-android-green?logo=android&logoColor=white"/>
   <img alt="python" src="https://img.shields.io/badge/-Python-%233776AB?logo=Python&logoColor=white"/>
 </p>
@@ -26,8 +30,7 @@
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-%23F24E1E?logo=Figma&logoColor=white"/>
 </p>
   - 🌱 I’m currently learning TypeScript
-<hr/>
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=splato88"/>
+
 
 
 <!--
