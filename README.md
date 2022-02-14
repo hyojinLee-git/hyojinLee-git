@@ -32,7 +32,6 @@
   <img alt="github" src="https://img.shields.io/badge/-github-%23181717?logo=GitHub&logoColor=white"/>
   <img alt="slack" src="https://img.shields.io/badge/-slack-%234A154B?logo=Slack&logoColor=white"/>
   <img alt="notion" src="https://img.shields.io/badge/-Notion-%23000000?logo=Notion&logoColor=white"/>
-  <img alt=" AWS" src="https://img.shields.io/badge/-AWS-%23232F3E?logo=Amazon%20AWS&logoColor=white"/>
   <img alt=" Netlify" src="https://img.shields.io/badge/-Netlify-%2300C7B7?logo=Netlify&logoColor=white"/>
   <img alt=" Firebase" src="https://img.shields.io/badge/-Firebase-%23FFCA28?logo=Firebase&logoColor=black"/>
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-%23F24E1E?logo=Figma&logoColor=white"/>
