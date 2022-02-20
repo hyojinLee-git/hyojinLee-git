@@ -36,8 +36,10 @@
   <img alt=" Firebase" src="https://img.shields.io/badge/-Firebase-%23FFCA28?logo=Firebase&logoColor=black"/>
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-%23F24E1E?logo=Figma&logoColor=white"/>
 </p>
-  - 🔭 I’m currently working on Web Admin for Seoul Garosu application.
-  - 🌱 I’m currently learning TypeScript.
+<ul>
+  <li>🔭 I’m currently working on Web Admin for Seoul Garosu application.</li>
+  <li>🌱 I’m currently learning TypeScript.</li>
+</ul>  
 
 
 
