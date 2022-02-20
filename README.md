@@ -37,6 +37,7 @@
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-%23F24E1E?logo=Figma&logoColor=white"/>
 </p>
   - 🔭 I’m currently working on Web Admin for Seoul Garosu application.
+  - 🌱 I’m currently learning TypeScript.
 
 
 
