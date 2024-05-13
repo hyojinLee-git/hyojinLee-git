@@ -1,4 +1,4 @@
-hi, i'm junior front end developer
+### hi, i'm junior frontend developer
 
 
 <!--
