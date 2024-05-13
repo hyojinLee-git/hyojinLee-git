@@ -1,5 +1,4 @@
-## Portfolio. 
-https://bit.ly/43JSQnn
+hi, i'm junior front end developer
 
 
 <!--
