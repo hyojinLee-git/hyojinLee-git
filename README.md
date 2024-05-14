@@ -1,6 +1,6 @@
-### hi, i'm junior frontend developer
+## hi, i'm junior frontend developer
 
-
+기록과 성장, 예술을 좋아합니다.
 <!--
 **hyojinLee-git/hyojinLee-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
