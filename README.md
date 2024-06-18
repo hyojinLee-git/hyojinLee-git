@@ -1,4 +1,6 @@
-## hi, i'm junior frontend developer
+## Hi, I'm frontend developer
+
+### 🔭 I’m  interested in ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
 <!--
 **hyojinLee-git/hyojinLee-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
