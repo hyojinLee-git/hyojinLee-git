@@ -1,4 +1,4 @@
-## Hi, i'm junior frontend developer
+## Hi, I'm frontend developer
 
 ### 🔭 I’m  interested in ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
